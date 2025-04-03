@@ -33,6 +33,6 @@ This project analyzes e-commerce sales data using **Excel Pivot Tables** to unco
 - **Sales Trend Forecasting**  
 - **Data-Driven Decision Making**  
 
-<a href="https://github.com/AbhishekSingh910/Ecomerce-Sales-Analysis-Dashboard/blob/main/Dashboard%20-%20Ecommerce.xlsx">Excel File<a/> 
+<a href="https://github.com/AbhishekSingh910/Ecomerce-Sales-Analysis-Dashboard/blob/main/Dashboard%20-%20Ecommerce.xlsx">Excel File<a/> <br>
 <a href="https://github.com/AbhishekSingh910/Ecomerce-Sales-Analysis-Dashboard/blob/main/Screenshot%202025-03-11%20222851.png">Dashboard Image<a/>
 
